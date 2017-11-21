@@ -49,7 +49,7 @@
         {
             return (obj != null && LicensePlate.Equals(((Car)obj).LicensePlate));
         }
-        //tthhll
+        //t
 
         public static bool operator ==(Car c1, Car c2)
         {
